@@ -1,0 +1,20 @@
+
+--------------Instrucciones para la ejecución de la primera entrega----------------
+
+- Instalar el paquete Yargs dentro de la carpeta:
+Abrir una consola de comandos y situarse dentro de esta carpeta.
+Ejecutar el siguiente comando: 'npm i yargs'.
+Ejecutar el siguiente comando: 'npm i express'.
+
+- Probar la primera historia de usuario:
+Dentro de la consola de comandos ejecutar el siguiente comando: 
+'node principal'.
+
+- Probar la segunda historia de usuario:
+Dentro de la consola de comandos ejecutar los siguientes comandos: 
+'node principal inscribir'.
+'node principal inscribir -i=2 -n="Nancy Marcela Yanza Hernandez" -c=1234567890'.
+'node principal inscribir -i=5 -n="Nancy Marcela Yanza Hernandez" -c=1234567890'.
+
+NOTA: todos los comandos aquí nombrados deben ser ejecutados sin las comillas
+sencillas.
